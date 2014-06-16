@@ -7,7 +7,7 @@ import gst
 import gtk
 import logging
 import wave
-
+import numpy
 # file where we record our voice (removed at end)
 WAVFILE = '/tmp/jarvis.wav'
 
